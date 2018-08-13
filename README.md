@@ -33,3 +33,6 @@ https://stackoverflow.com/questions/9046675/convert-a-php-script-into-a-stand-al
 https://github.com/cztomczak/phpdesktop/wiki/Source-code-protection#bcompiler
 https://github.com/codex-corp/ncryptd/blob/master/app/controllers/MagicalController.php#L479
 https://stackoverflow.com/questions/15518125/cant-install-bcompiler-pecl-extension
+
+# Licence 
+MIT License
