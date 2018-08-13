@@ -1,16 +1,18 @@
-# PHP Encryption-BLENC-encoder
-Php code encyption via BLENC
+# PHP Encryption via BLENC
 
-Code includes test example with simple php file called `"simple.php"` and a Object oriented file as example called `"class.php"`.
+
+Repo includes test example with sample php files called `"simple.php"` and a Object oriented file class example called as `"class.php"`.
 In order to run and test encryption, Run following:
 
 1 - encrypt_class.php
+
 2 - encrypt_simple.php
 
-The encrypted output will be produced and stored in `encrypted` folder.
+The encrypted output of files will be produced and stored in `encrypted` folder.
 
-Keys folder is about holding the encrypted keys, that will genertated on the fly by Blenc. This folder is not the part of your project there you can user any directory and you must mention about this folder either via `.htaccess` or `php.ini` 
-for now i mentioned that relative path of key in my php.ini
+Keys folder is about holding the encrypted keys, key will genertated on the fly by Blenc. This folder is not the part of your project. Therefore, you can use any directory for keys and you must mention about this folder either via `.htaccess` or `php.ini` 
+For now, I 
+mentioned that relative path of key in my php.ini
 
 ## Php.ini
 
